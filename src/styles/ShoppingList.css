@@ -1,0 +1,25 @@
+.pc-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}	
+.pc-plant-list-button{
+	display: flex;
+	justify-content: space-evenly;
+}
+.pc-plant-list-button-add{
+	color: white;
+	background-color :#31b572;
+	border-radius: 10px;
+	height: 30px;
+}
+.pc-plant-list-button-remove{
+	color: white;
+	background-color :#ffa500;
+	border-radius: 10px;
+}
+.pc-shopping-list{
+	width: 100%;
+}

@@ -1,0 +1,23 @@
+.pl-cart{
+    color: white;
+    background-color: #31b572;
+    padding: 32px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 300px;
+}
+.pl-cart-button{
+    color: white;
+    background-color: #31b572;
+    border-style: none;
+    font-weight: 600;
+    cursor: pointer;
+	align-self: self-end;
+}
+.pl-cart-button-vider{
+    background-color: #ffa500;
+    border-radius: 10px;
+    height: 45px;
+    cursor: pointer;
+}

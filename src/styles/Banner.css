@@ -1,0 +1,15 @@
+.pc-header{
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    padding: 22px;
+    border-bottom: solid 3px black;
+    align-items: center;
+}
+.pc-title{
+    padding-left:18px ;
+}
+.pc-logo{
+    height: 45px;
+    width: 45px;
+}
