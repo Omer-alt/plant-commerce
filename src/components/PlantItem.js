@@ -1,4 +1,3 @@
-import {plantList} from './datas/plantList'
 import ScaleCare from './ScaleCare'
 import '../styles/PlantItem.css'
 

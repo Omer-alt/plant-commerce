@@ -10,9 +10,9 @@ const quantityLabel = {
 
 function ScaleCare({scaleValue,careType}){
     const scaleType = careType==='light'?(
-    <img src={sun} alt='sun-image'/>
+    <img src={sun} alt='sun '/>
     ):(
-    <img src={water} alt='water-image'/>
+    <img src={water} alt='water'/>
     );
     const range=[1,2,3]
     return (
